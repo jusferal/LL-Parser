@@ -4,4 +4,6 @@ This program takes a regular grammar as input
 * Removes Ambiguity
 * Generates the First and Follow
 * Displays its corresponding LL(1) Parsing Table. 
-Finally, the table and a string are used to simulate the LL(1) parse action.
+
+Epsilon is represented by '#'.
+Finally, the table and an string are used to simulate the LL(1) parse action.
