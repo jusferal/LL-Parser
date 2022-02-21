@@ -11,3 +11,4 @@ F -> num
 F -> id
 string_test:
 num + id * num
+)
